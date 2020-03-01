@@ -6,4 +6,8 @@
     <RootNamespace>HW._02</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="image\" />
+  </ItemGroup>
+
 </Project>
