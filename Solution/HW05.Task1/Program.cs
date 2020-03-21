@@ -11,7 +11,7 @@ namespace HW05.Task1
                 char letter = (char)(int)i;
                 char letter2 = (char)(int)a;
                 Console.Write(letter);
-                Console.WriteLine(letter2);
+                Console.Write($"{letter2} ");
             }
            
         }
