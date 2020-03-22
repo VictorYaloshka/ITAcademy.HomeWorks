@@ -30,7 +30,7 @@ namespace HW06.Task02
                 array[i + 1] = array[i];
             }
             array[id] = val;
-            Console.WriteLine("\nnew array:");
+            Console.WriteLine("\narray:");
             foreach (int item in array)
             {
                 Console.Write($"{item}\t");
