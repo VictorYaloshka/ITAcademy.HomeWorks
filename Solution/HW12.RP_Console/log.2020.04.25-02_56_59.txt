@@ -1,0 +1,8 @@
+2020-04-25 14:56:59,239  [1]  INFO   HW12.RP_Console.Program - Start of the programm
+2020-04-25 14:56:59,254  [1]  INFO   HW12.RP_DAL.MotoStaticCollection - Create new motorcycle
+2020-04-25 14:56:59,255  [1]  INFO   HW12.RP_DAL.MotoStaticCollection - Get motorcycle by ID
+2020-04-25 14:56:59,286  [1]  INFO   HW12.RP_DAL.MotoStaticCollection - Print all motorcycles
+2020-04-25 14:56:59,292  [1]  INFO   HW12.RP_DAL.MotoStaticCollection - Update motorcycle
+2020-04-25 14:56:59,292  [1]  INFO   HW12.RP_DAL.MotoStaticCollection - Delete motorcycle
+2020-04-25 14:56:59,292  [1]  INFO   HW12.RP_DAL.MotoStaticCollection - Print all motorcycles
+2020-04-25 14:56:59,293  [1]  INFO   HW12.RP_Console.Program - End of the programm
