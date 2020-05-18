@@ -1,0 +1,8 @@
+2020-04-18 18:11:43,314 INFO  HW11.Task01_Shapes.Program - Program start
+2020-04-18 18:11:43,326 INFO  HW11.Task01_Shapes.Foursquare - Area calculation. Figure: foursquare
+2020-04-18 18:11:43,328 INFO  HW11.Task01_Shapes.Program - Output to the console. Figure: foursquare
+2020-04-18 18:11:43,328 INFO  HW11.Task01_Shapes.Circle - Area calculation. Figure: circle
+2020-04-18 18:11:43,328 INFO  HW11.Task01_Shapes.Program - Output to the console. Figure: circle
+2020-04-18 18:11:43,328 INFO  HW11.Task01_Shapes.Triangle - Area calculation. Figure: triangle
+2020-04-18 18:11:43,328 INFO  HW11.Task01_Shapes.Program - Output to the console. Figure: triangle
+2020-04-18 18:11:43,335 INFO  HW11.Task01_Shapes.Program - Program completed successfully
